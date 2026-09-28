@@ -24,7 +24,3 @@ Explore the arena and collect basketballs to use as ammunition. Adjust the canno
 - C#
 - Universal Render Pipeline
 - Unity WebGL
-
-## Run in Unity
-
-Clone the repository and open it through Unity Hub with Unity 2021.3.45f2. Open `Assets/Scenes/Main.unity`, then enter Play Mode.
